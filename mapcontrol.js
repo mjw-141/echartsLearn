@@ -54,7 +54,7 @@ function loadGeoJson(url, callback) {
 
 // 一个对象，用于映射区域名称到目标页面的URL  
 const regionToPageMap = {  
-    '襄垣县': 'xianghuan.html', // 假设RegionA点击后跳转到pageA.html  
+    '襄垣县': 'https://notion-next-lyart-seven-93.vercel.app/article/guide', // 假设RegionA点击后跳转到pageA.html  
     // 'RegionB': 'pageB.html', 
     // 'RegionB': 'pageB.html',
     // 'RegionB': 'pageB.html',
